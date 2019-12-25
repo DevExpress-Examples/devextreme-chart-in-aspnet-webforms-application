@@ -11,10 +11,10 @@
             padding: 0;
         }
     </style>
-    <script src="DXTREME/js/jquery-1.9.1.min.js" type="text/javascript"></script>
-    <script src="DXTREME/js/globalize.js" type="text/javascript"></script>
-    <script src="DXTREME/js/knockout-2.2.1.js" type="text/javascript"></script>
-    <script src="DXTREME/js/dx.chartjs.js" type="text/javascript"></script>
+    <script src="Scripts/jquery-1.9.1.min.js" type="text/javascript"></script>
+    <script src="Scripts/globalize.js" type="text/javascript"></script>
+    <script src="Scripts/knockout-2.2.1.js" type="text/javascript"></script>
+    <script src="Scripts/dx.chartjs.js" type="text/javascript"></script>
     <script type="text/javascript">
         $(function () {
             $("#chartContainer").dxChart({
