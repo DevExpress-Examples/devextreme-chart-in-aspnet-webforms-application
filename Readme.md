@@ -12,7 +12,7 @@
 <!-- default file list end -->
 # How to use the dxChart in an ASP.NET WebForms application
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4470/)**
+**[[Run Online]](https://codecentral.devexpress.com/128583715/)**
 <!-- run online end -->
 
 
