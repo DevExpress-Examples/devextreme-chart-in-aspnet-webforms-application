@@ -9,9 +9,6 @@
 
 <p>This example is an illustration of the <a href="https://www.devexpress.com/Support/Center/p/KA20011">KA20011: DevExtreme Mobile - Technical FAQ</a> KB Article. Refer to the Article for an explanation.</p>
 
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128583715/)**
-<!-- run online end -->
 
 <div align="center"><img src="chat-in-forms.png" /></div>
 
