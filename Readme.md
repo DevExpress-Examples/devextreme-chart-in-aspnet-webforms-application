@@ -16,9 +16,9 @@
 ## Files to Review
 
 - **ASP**
-  - [DataHelper.cs](./CS/WebSite/App_Code/DataHelper.cs) (VB: [DataHelper.vb](./VB/WebSite/App_Code/DataHelper.vb))
-  - [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-  - [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+  - [DataHelper.cs](./CS/WebSite/App_Code/DataHelper.cs)
+  - [Default.aspx](./CS/WebSite/Default.aspx)
+  - [Default.aspx.cs](./CS/WebSite/Default.aspx.cs)
 
 ## Documentation
 
